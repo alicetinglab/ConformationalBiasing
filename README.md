@@ -1,4 +1,4 @@
-# Conformational Design
+# Design of conformational biasing mutations
 
 Code based on ColabDesign/ProteinMPNN for designing mutations to bias protein conformational states. This repository is a work in progress. 
 
