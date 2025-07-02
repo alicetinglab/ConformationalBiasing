@@ -1,4 +1,4 @@
-# Design of conformational biasing mutations
+# Design of conformational biasing mutations using Inverse Folding
 
 Code based on ColabDesign/ProteinMPNN for designing mutations to bias protein conformational states. This repository is a work in progress.
 
