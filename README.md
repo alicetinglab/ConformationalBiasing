@@ -1,12 +1,14 @@
 # Design of Conformational Biasing Mutations Using Inverse Folding
 
-Code based on [ColabDesign/ProteinMPNN](https://github.com/sokrypton/ColabDesign) for designing mutations to bias protein conformational states. This repository is a work in progress.
+Code based on [ColabDesign/ProteinMPNN](https://github.com/sokrypton/ColabDesign) for designing mutations to bias protein conformational states. This repository is a work in progress (updated 7/2/2025).
 
-For more information, please see our preprint here: [https://www.biorxiv.org/content/10.1101/2025.05.03.652001v2.full](https://www.biorxiv.org/content/10.1101/2025.05.03.652001v2.full)
+For more information, please see our [preprint](https://www.biorxiv.org/content/10.1101/2025.05.03.652001v2.full).
 
 ## Running CB
 
-An example notebook for CB scoring of LplA is provided in the `examples` folder. You can also run the full workflow on Google Colab here:  
+An example notebook for CB scoring of LplA is provided in the `examples` folder.
+
+You can also run the full workflow on Google Colab here:  
 <a target="_blank" href="https://colab.research.google.com/github/alicetinglab/ConformationalBiasing/blob/main/colab/CB.ipynb">
 <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
