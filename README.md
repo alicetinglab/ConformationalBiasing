@@ -118,7 +118,7 @@ You can also use the provided `environment.yml` to create this environment.
 
 For the CB method:
 
-- Cavanagh PE, Xue AG, Dai S, Qiang A, Matsui T, Ting AY. **Computational design of conformation-biasing mutations to alter protein functions.** _bioRxiv_ (2025).
+- Cavanagh PE, Xue AG, Dai S, Qiang A, Matsui T, Ting AY. **Computational design of conformation-biasing mutations to alter protein functions.** _bioRxiv_ (2025). doi: [10.1101/2025.05.03.652001](https://doi.org/10.1101/2025.05.03.652001)
 
 If you use the following models, please cite them as well:
 
