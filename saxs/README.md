@@ -12,3 +12,8 @@ If you use DENSS/Oligomer, please cite the following articles in your work:
 
 - Grant TD. **Ab initio electron density determination directly from solution scattering data.** _Nature Methods_ (2018). doi: [10.1038/nmeth.4581](https://www.nature.com/articles/nmeth.4581)
 - Konarev PV, Volkov VV, Sokolova AV, Koch MHJ, Svergun DI. **PRIMUS: a Windows PC-based system for small-angle scattering data analysis.** _Journal of Applied Crystallography_ (2003). doi: [10.1107/S0021889803012779](https://journals.iucr.org/paper?S0021889803012779)
+
+## Setup
+
+- Oligomer can be installed through the [ATSAS software suite](https://www.embl-hamburg.de/biosaxs/manuals/install.html)
+- DENSS is available on PyPI and can be installed by running `pip install denss`

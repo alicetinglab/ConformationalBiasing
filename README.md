@@ -110,7 +110,7 @@ You can also use the provided `environment.yml` to create this environment.
 
 ## Other repository contents
 
-- In `saxs` we include code for SAXS data processing and analysis.
+- In `saxs` we include code for SAXS data processing with DENSS and Oligomer, as well as downstream analysis.
 - In `modeling` we include a script for ODE modeling of LplA reaction rates under conformational biasing conditions.
 - In `pdbs` we include organized PDBs that were used in the standard CB workflow for all of results shown in our manuscript. More detailed description of the files is in `pdbs\annotation.md`.
 
