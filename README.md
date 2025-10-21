@@ -17,7 +17,7 @@ CB takes two protein structures representing different conformational states of 
 We implement CB with four different inverse folding models:
 
 - **ProteinMPNN** (Default): [Reference](https://www.science.org/doi/10.1126/science.add2187), [Code](https://github.com/dauparas/ProteinMPNN)
-- **Frame2Seq**: [Reference](https://www.mlsb.io/papers_2023/Frame2seq_structure-conditioned_masked_language_modeling_for_protein_sequence_design.pdf), [Code](https://github.com/dakpinaroglu/Frame2seq)
+- **Frame2Seq**: [Reference](https://www.biorxiv.org/content/10.1101/2023.12.15.571823v1), [Code](https://github.com/dakpinaroglu/Frame2seq)
 - **ThermoMPNN**: [Reference](https://www.pnas.org/doi/10.1073/pnas.2314853121), [Code](https://github.com/Kuhlman-Lab/ThermoMPNN)
 - **ESM-IF1**: [Reference](https://proceedings.mlr.press/v162/hsu22a/hsu22a.pdf), [Code](https://github.com/facebookresearch/esm)
 
@@ -128,7 +128,7 @@ If you use the following models, please cite them as well:
 
 **Frame2seq**
 
-- Akpinaroglu D, Seki K, Zhu E, Kortemme T. **Frame2seq: structure-conditioned masked language modeling for protein sequence design.** _NeurIPS MLSB Workshop_ (2023).
+- Akpinaroglu D, Seki K, Guo A, Zhu E, Kelly MJS, Kortemme T. **Structure-conditioned masked language models for protein sequence design generalize beyond the native sequence space** _bioRxiv_ (2023).
 
 **ThermoMPNN**
 
