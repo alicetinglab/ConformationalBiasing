@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/alicetinglab/ConformationalBiasing/main/images/CB_cartoon.jpg" align="center" alt="drawing" width="1000">
 
-This repository accompanies our manuscript: [Computational design of conformation-biasing mutations to alter protein functions](https://www.biorxiv.org/content/10.1101/2025.05.03.652001v2.full).
+This repository accompanies our manuscript: [Computational design of conformation-biasing mutations to alter protein functions](https://www.science.org/doi/10.1126/science.adv7953).
 
 In this repository, we implement a computational pipeline for designing protein variants with altered conformational state preferences, based on using inverse-folding models to score a protein across known alternative conformations. We include a version that runs on Google Colab, as well as multiple individual notebooks for running example predictions for _E. coli_ lipoic acid ligase (LplA) across a variety of inverse-folding models.
 
@@ -118,7 +118,7 @@ You can also use the provided `environment.yml` to create this environment.
 
 For the CB method:
 
-- Cavanagh PE, Xue AG, Dai S, Qiang A, Matsui T, Ting AY. **Computational design of conformation-biasing mutations to alter protein functions.** _bioRxiv_ (2025). doi: [10.1101/2025.05.03.652001](https://doi.org/10.1101/2025.05.03.652001)
+- Cavanagh PE, Xue AG, Dai S, Qiang A, Matsui T, Ting AY. **Computational design of conformation-biasing mutations to alter protein functions.** _Science_ (2026). doi: [10.1126/science.adv79531](https://doi.org/10.1126/science.adv7953)
 
 If you use the following models, please cite them as well:
 
